@@ -535,6 +535,10 @@ body {
           flex: 1 1 auto;
 }
 
+.premium__button:hover {
+  background-color: #1c405f;
+}
+
 .item {
   background-color: #ffffff;
   -webkit-box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.04);
